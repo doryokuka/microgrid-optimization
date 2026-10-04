@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+**/outputs/
+**/smoke_outputs/
+**/retrained_outputs/
+**/结果*/
+**/试跑/
+**/reference/
+**/data/*
+附件/
+src/附件/
+*.xlsx
+*.npz
+*.tmp
+*.log
